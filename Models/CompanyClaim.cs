@@ -1,4 +1,4 @@
-﻿using trnsACT.Manage.Data.Abstractions;
+﻿using trnsACT.Data.Abstractions;
 using System;
 using System.Collections.Generic;
 

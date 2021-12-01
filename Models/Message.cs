@@ -1,8 +1,8 @@
-﻿using trnsACT.Communicate.Data.Abstractions;
+﻿using trnsACT.Data.Abstractions;
 using System;
 using System.Collections.Generic;
 
-namespace trnsACT.Communicate.Data.Models
+namespace trnsACT.Data.Models
 {
     public partial class Message : IMessage
     {

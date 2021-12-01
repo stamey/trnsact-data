@@ -1,6 +1,6 @@
-﻿using trnsACT.Communicate.Data.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using trnsACT.Data.Models;
 
 namespace trnsACT.Data.Abstractions
 {

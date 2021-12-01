@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using trnsACT.Communicate.Data.Abstractions;
+using trnsACT.Data.Abstractions;
 
-namespace trnsACT.Communicate.Data.Models
+namespace trnsACT.Data.Models
 {
     public partial class Unsubscribed : IUnsubscribed
     {
